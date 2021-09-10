@@ -1,5 +1,5 @@
 # android_general
-The content decryption module private key for android_general 
+The widevine content decryption module private key for android_general 
 
  DeviceInfo {
     SystemId: 4464
