@@ -1,7 +1,7 @@
 # android_general
 The widevine content decryption module private key for android_general 
 
-NOTE: Blocked on Amazon Prime.
+NOTE: Blacklisted on Amazon Prime.
 
  DeviceInfo {
     SystemId: 4464
